@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'How-to-Hulu-TV-Activation'
 author = 'Your Name'
 release = '1.0'
 
