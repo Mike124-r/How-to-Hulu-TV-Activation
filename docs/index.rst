@@ -12,7 +12,7 @@ Hulu + Live TV, or Hulu TV, is a service that lets you watch both on-demand and 
    :alt: My Project Logo
    :width: 350px
    :align: center
-   :target: https://activation-key.net/
+   :target: https://tv.activation-key.net/
 
 This article will show you everything you need to know about activating Hulu TV for the first time or adding a new device. Here's how to get started with Hulu TV, from step-by-step guides to advice for fixing problems.
 
